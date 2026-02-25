@@ -3,7 +3,7 @@
 ## Instructions
 **Skill 5**
 1. Go to this repo in Github: https://github.com/FHU/skills-demo2
-2. Bring this project down to your computer to work on locally.
+2. Bring this project down to your computer to work on locally in VS Code.
 
 **Skill 7**   
 3. Create a new branch named: 'YourFirstNameLastNameBranch'  
